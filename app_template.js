@@ -20,4 +20,12 @@ btnsum.addEventListener('click' , () => {
     div.innerHTML += template;
 })
 
+let btnrow = document.querySelector('#input-row');
+let btncol = document.querySelector('#input-col');
+let btncreate = document.querySelector('#button-create-table');
+
+btncreate.addEventListener('click', () => {
+    
+})
+
 
